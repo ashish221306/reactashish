@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+body{
+    background-color: aqua;
+}
+nav{
+    display: flex;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+nav button{
+    padding: 10px 15px;
+    outline: none;
+    background: aqua;
+    cursor: pointer;
+    color: black;
+    margin-left: 10px;
+} 
+.card{
+    display: inline-block;
+    background: red;
+    margin: 20px;
+}
